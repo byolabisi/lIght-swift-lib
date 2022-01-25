@@ -1,5 +1,3 @@
-//
-//  moment.swift
 //  moment.swift
 //
 //  Created by Olabisi Oduola
